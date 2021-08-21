@@ -1,2 +1,3 @@
 # Practice
-Basic practice
+
+This project contains basic small console applications for practise purposes. 
